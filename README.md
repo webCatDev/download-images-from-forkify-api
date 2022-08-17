@@ -1,4 +1,4 @@
-#How to use
+# How to use
 - install axios as dev dependency
 
 ```npm i axios -D```
